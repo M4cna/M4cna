@@ -1,6 +1,6 @@
 <h2 align="left">Hi ! My name is M4cna</h2>
 
-### Activity Dashboard
+### My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M4cna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="130" alt="stats graph" />
@@ -32,7 +32,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
+
 ###  Social media badges
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
