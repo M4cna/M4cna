@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M4cna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="123" alt="languages graph" />
 </div>
 
-### Left-aligned image with spacing
+### 
 <img align="left" height="220" src="https://i.pinimg.com/564x/fa/ec/ed/faeced45bc2823ae1b31822c06cee9d7.jpg" style="margin-right: 20px;" />
 
 ### Languages & Tools I Use
