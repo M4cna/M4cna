@@ -7,7 +7,7 @@
 </div>
 
 
-<img align="left" height="220" src="https://i.pinimg.com/564x/fa/ec/ed/faeced45bc2823ae1b31822c06cee9d7.jpg" style="margin-right: 20px;" />
+<img align="left" height="220" src="https://i.pinimg.com/564x/fa/ec/ed/faeced45bc2823ae1b31822c06cee9d7.jpg"/>
 
 ### Languages & Tools I Use
 <div align="left">
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
-### 
 <br clear="both">
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <h4 align="left">Hi there! I'm thrilled to have you visit my GitHub space. I am passionate about coding and have honed my skills in a variety of programming languages and technologies. Here's a bit about what I work with:</h4>
