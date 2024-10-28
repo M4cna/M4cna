@@ -9,7 +9,7 @@
 ### Left-aligned image with spacing
 <img align="left" height="220" src="https://i.pinimg.com/564x/fa/ec/ed/faeced45bc2823ae1b31822c06cee9d7.jpg" style="margin-right: 20px;" />
 
-### Left-aligned icons
+### Languages & Tools I Use
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
