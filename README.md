@@ -1,6 +1,7 @@
 <h2 align="left">Hi ! My name is M4cna</h2>
 
 ### Activity Dashboard
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M4cna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="130" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M4cna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="123" alt="languages graph" />
